@@ -2,7 +2,6 @@ import React from 'react'
 import { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 
-import { Auth } from 'aws-amplify';
 
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
